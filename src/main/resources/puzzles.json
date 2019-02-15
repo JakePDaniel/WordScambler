@@ -1,0 +1,44 @@
+{
+  "puzzles": [{
+    "id": "1",
+    "words": [{
+      "id": 1,
+      "letters": "NAGLD",
+      "circledLetters": ["1", "3", "4"]
+    }, {
+      "id" : 2,
+      "letters": "RAMOJ",
+      "circledLetters": ["2", "3"]
+    }, {
+      "id" : 3,
+      "letters": "CAMBLE",
+      "circledLetters": ["0", "1", "3"]
+    }, {
+      "id" : 4,
+      "letters": "WRALEY",
+      "circledLetters": ["0", "2", "4"]
+    }],
+    "finalWordSizes": ["3", "4", "4"]
+  }, {
+    "id": "2",
+    "words": [{
+      "id" : 1,
+      "letters": "BNEDL",
+      "circledLetters": ["0", "4"]
+    }, {
+      "id" : 2,
+      "letters": "IDOVA",
+      "circledLetters": ["0", "3", "4"]
+    }, {
+      "id" : 3,
+      "letters": "SEHEYC",
+      "circledLetters": ["1", "5"]
+    }, {
+      "id" : 4,
+      "letters": "ARACEM",
+      "circledLetters": ["1", "4", "5"]
+    }],
+    "finalWordSizes": ["3", "4", "3"]
+  }
+  ]
+}

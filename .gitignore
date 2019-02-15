@@ -1,0 +1,10 @@
+/target/
+.factorypath
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# os files
+**/.DS_Store
