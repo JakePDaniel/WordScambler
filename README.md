@@ -1,6 +1,6 @@
 # Word Scambler
 
-Simple Apache Spark project that solves the scramble problem. 
+Simple Apache Spark project that solves the Jumble problem. 
 
 ## Explanation of the problem
 The jumble puzzle is a common newspaper puzzle, it contains a series of anagrams that must be
